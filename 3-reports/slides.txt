@@ -1,0 +1,64 @@
+Slide 1: Title Slide
+- Project Title: GDP Analysis using World Bank and IMF Data (2015–2023)
+- Your Name
+- Date / Course / Internship / GitHub Link
+
+Slide 2: Objective
+- Analyze GDP trends of multiple countries
+- Compare economic performance: India, USA, China, Germany, UK, Japan, Brazil
+- Identify factors affecting GDP: Inflation, Investment, Trade Balance
+
+Slide 3: Data Source
+- World Bank Open Data: https://data.worldbank.org/
+- IMF DataMapper: https://www.imf.org/en/Data
+- Indicators: GDP (USD), GDP per capita, Growth %, Inflation %, Investment %, Trade Balance %
+
+Slide 4: Methodology
+- Data Collection & Cleaning
+- Exploratory Data Analysis (EDA)
+- Comparative Analysis across countries
+- Visualizations: Line, Bar, Scatter, Heatmap
+
+Slide 5: GDP Trends
+- India & China: High growth trajectory
+- USA & Germany: Stable but slower growth
+- Japan: Stable low growth
+- Brazil: Volatile growth, high inflation
+
+Slide 6: Key Findings (1)
+- Investment strongly influences GDP growth
+- Inflation negatively impacts growth
+- Trade balance affects long-term stability
+
+Slide 7: Key Findings (2)
+- Emerging economies driving global growth
+- Developed economies show stability but low growth
+- COVID-19 caused a temporary contraction in 2020
+
+Slide 8: Visualizations / Graphs
+- GDP Growth Trends Line Chart
+- GDP per Capita Trend Line Chart
+- Inflation vs GDP Growth Scatter Plot
+- Average Trade Balance Bar Chart
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+
+Slide 9: Conclusion
+- GDP growth influenced by investment, inflation, trade balance
+- Emerging economies like India & China lead growth
+- Developed economies stable but slow-growing
+- Insights useful for policymakers, economists, investors
+
+Slide 10: Future Scope
+- Include more countries & longer timeline
+- Apply predictive models (ARIMA, LSTM)
+- Integrate additional macroeconomic indicators (Unemployment, FDI, Debt)
+
+Slide 11: References
+- World Bank Open Data: https://data.worldbank.org/
+- IMF DataMapper: https://www.imf.org/en/Data

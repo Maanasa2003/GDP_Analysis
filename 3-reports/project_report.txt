@@ -1,0 +1,71 @@
+1. Executive Summary
+
+This project analyzes the Gross Domestic Product (GDP) trends of selected countries over the past decade. 
+The objective is to understand economic growth patterns, compare performance across nations, and identify factors
+ influencing growth, such as inflation, investment, and trade balance. The analysis is performed using Python (.py scripts) 
+ and Jupyter Notebook (.ipynb), with data collected from the World Bank and the International Monetary Fund (IMF).
+
+2. Introduction
+
+Gross Domestic Product (GDP) is one of the most widely used indicators to measure the health of an economy.
+It reflects the total monetary value of all goods and services produced within a country’s borders in a specific time frame.
+This project focuses on evaluating GDP trends, growth rates, and associated macroeconomic variables to better understand
+the performance of various economies.
+
+3. Objectives
+
+  1.To collect and preprocess GDP and related economic indicators from the World Bank and IMF.
+  2.To visualize GDP trends across countries over time.
+  3.To analyze correlations between GDP and key variables such as inflation, investment, and trade balance.
+  4.To generate insights on economic performance and future growth potential.
+
+4. Methodology
+
+Data Collection: Data obtained from the World Bank’s World Development Indicators (WDI) and IMF DataMapper.
+Data Preprocessing: Cleaning missing values, normalizing formats, and ensuring consistency across indicators.
+Exploratory Data Analysis (EDA): Descriptive statistics and visualizations for GDP and related variables.
+Visualization: Line plots, bar charts, and correlation heatmaps generated using Python libraries (matplotlib, seaborn, pandas).
+Comparative Analysis: GDP growth rates compared across countries and regions.
+
+5. Analysis and Results
+
+5.1 GDP Trends
+Countries like India and China showed consistent GDP growth over the last decade.
+Developed economies such as the USA and Germany showed steady growth but at a slower pace.
+
+5.2 Correlation Analysis
+Strong positive correlation between GDP and investment rates.
+Moderate negative correlation observed between GDP growth and inflation.
+Trade balance exhibited varied effects depending on the country.
+
+5.3 Key Insights
+Emerging economies are growing faster than developed ones.
+Inflation control plays a key role in sustaining GDP growth.
+Investment drives long-term GDP expansion.
+
+5.4 Generated Plots
+
+The following plots were generated and saved in the reports/plots/ folder and also embedded within the Jupyter Notebook
+ (GDP_Analysis.ipynb):
+Line Graph – GDP growth trends (2010–2024) for selected countries.
+Bar Chart – Comparison of average GDP growth rates by country.
+Heatmap – Correlation between GDP, inflation, investment, and trade balance.
+
+6. Discussion
+
+The results confirm that investment and inflation management are crucial for sustainable growth.
+Developing economies like India have a strong upward trajectory due to rising investments and domestic demand.
+On the other hand, developed countries show maturity in growth, with smaller fluctuations but stable performance.
+Trade balance remains an important factor that requires further detailed analysis.
+
+7. Conclusion
+
+This project successfully analyzed GDP and its influencing factors using open economic datasets.
+The insights gained highlight the importance of investment and inflation in driving GDP growth.
+The results can be used by policymakers, economists, and businesses to make informed decisions.
+Future extensions of this project could include predictive modeling using machine learning techniques to forecast GDP trends.
+
+8. References
+
+World Bank Open Data – GDP (current US$): https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+IMF DataMapper – World Economic Outlook: https://www.imf.org/en/Data
